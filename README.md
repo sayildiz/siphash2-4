@@ -1,2 +1,2 @@
 # siphash2-4
-Simple implementatin of SipHash 2-4 with Test values from the paper
+simple implementation of sipHash 2-4 with test values from the paper
